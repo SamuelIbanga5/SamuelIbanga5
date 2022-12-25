@@ -16,7 +16,6 @@
 - 💎 I'm a self taught Python developer with Focus on Web development. <br />
 - 👀 I’m interested in Backend development, Cloud computing, DevOps engineering, Automations and Cyber Security. <br />
 - 🌱 I’m currently learning FullStack Software Engineering in ALX-Africa. <br />
-- ⛳ I’m currently interning in Zuri/HNG Internship 9.0. <br />
 - 💞️ I’m looking to collaborate on Real world projects. <br />
 - 📫 How to reach me; Email address: ibangajnr27@gmail.com; Twitter: @Ibangajnr10; LinkedIn: https://www.linkedin.com/in/samuel-ibanga-ba82ab1b2/. <br />
 
